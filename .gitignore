@@ -1,0 +1,24 @@
+# macOS Finder metadata
+.DS_Store
+.AppleDouble
+.__MACOSX
+
+# AppleDouble sidecar files
+._*
+
+# Common macOS volume / indexing trash
+.Spotlight-V100
+.Trashes
+.TemporaryItems
+.fseventsd
+.DocumentRevisions-V100
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# Temporary and log files
+*.tmp
+*.swp
+*.log
+Thumbs.db
+desktop.ini
