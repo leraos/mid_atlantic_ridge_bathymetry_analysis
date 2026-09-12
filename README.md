@@ -1,3 +1,9 @@
+I am interested in detecting large bathymetric transitions occurring across limited horizontal distances
+
+In the Formigas example image, the important signal is something like:
+relatively shallow seafloor -> several thousand feet deeper within perhaps a couple nautical miles
+
+
 ## Bathymetric gradient
 
 The bathymetric gradient magnitude describes the rate of change of seafloor elevation with horizontal distance:
